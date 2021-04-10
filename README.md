@@ -11,3 +11,6 @@ The bot is universal and can be used to manage multiple bots via Token.
 Primarily this bot / bot manager was meant to give assistance, but it can also be used for other purposes.
 
 Warning this version is for Windows x86 computers.
+
+Available languages:
+- Italian
